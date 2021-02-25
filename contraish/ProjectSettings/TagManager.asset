@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dusman
+  - mermi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - zemin
+  - karakter
+  - dusman
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arka_plan
+    uniqueID: 1196584241
+    locked: 0
+  - name: tiles
+    uniqueID: 1303386459
+    locked: 0
+  - name: karakter
+    uniqueID: 2552759781
+    locked: 0
+  - name: selale
+    uniqueID: 2058424915
+    locked: 0
